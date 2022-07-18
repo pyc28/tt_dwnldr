@@ -4,7 +4,7 @@
 ---
 
 ### 🛒 How to buy
-You can contact me to buy this program. Accepted payment methods: Payeer, Cryptocurrency. Price for this tool would be $20
+You can contact me to buy this program. Accepted payment methods: Payeer, Cryptocurrency. Price for this tool would be $15
 
 ### 💡 Features of the script
 1. Download full profile or a single video
